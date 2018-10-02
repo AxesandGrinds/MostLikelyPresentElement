@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">MostLikelyPresent</string>
+    <string name="press_button">Press red button to choose spectrum CSV file or graph</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="LibLines">LibLines</string>
+    <string name="Spectrum">Spectrum</string>
+    <string name="element">element</string>
+    <string name="wavelength">wavelen</string>
+    <string name="intensity">intensity</string>
+    <string name="relint">rel inten</string>
+    <string name="choose_spectrum">Choose Spectrum CSV file</string>
+    <string name="use_embedded">Use embedded Spectrum CSV file</string>
+    <string name="graph">Graph</string>
+
+</resources>
